@@ -46,6 +46,7 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/overlays/overlay/common
 # System themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay \
+    RoundQSOverlay
 
 # Primary Colors
 #include vendor/overlays/primary/primary_colors.mk
