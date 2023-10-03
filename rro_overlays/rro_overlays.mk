@@ -1,6 +1,6 @@
 # Overlays
 PRODUCT_PACKAGES += \
-     BlissConfigOverlay \
+     ApolloConfigOverlay \
      NetworkStackOverlay
 #    CustomConfigOverlay \
 #    CustomLauncherOverlay \
